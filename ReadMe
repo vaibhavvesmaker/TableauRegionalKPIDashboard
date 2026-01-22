@@ -18,9 +18,13 @@ View the fully interactive version of this dashboard on Tableau Public:
 ---
 
 ## 🧾 Dashboard Preview
-Below is a snapshot of the completed dashboard:
 
-![Regional KPI Dashboard Preview](./dashboard-preview.png)
+<p align="center">
+  <img src="dashboard-preview.png" alt="Regional KPI Dashboard Preview" width="900">
+</p>
+
+---
+
 
 
 ## 🗂 Repository Contents
