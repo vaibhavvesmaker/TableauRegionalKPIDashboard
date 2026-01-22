@@ -1,0 +1,140 @@
+```markdown
+# Regional KPI Dashboard (Tableau)
+
+## 📊 Overview
+The **Regional KPI Dashboard** is an interactive Tableau dashboard designed to analyze and compare regional business performance across key metrics. It enables users to evaluate **Sales, Profit, Orders, and Customers** over time, benchmark results against the prior year, and drill down geographically from region to state and city levels.
+
+This dashboard is ideal for executive reporting, regional performance reviews, and operational decision-making.
+
+---
+
+## 🗂 Repository Contents
+```
+
+📁 Regional-KPI-Dashboard
+│── 📊 Regional_KPI_Dashboard.twbx   # Packaged Tableau Workbook
+│── 🖼 dashboard-preview.png          # Dashboard screenshot
+│── README.md                        # Project documentation
+
+```
+
+---
+
+## 🧾 Dashboard Preview
+Below is a snapshot of the completed dashboard:
+
+![Regional KPI Dashboard](dashboard-preview.png)
+
+---
+
+## 🎯 Key Objectives
+- Track regional business performance at a glance  
+- Compare **current year vs. previous year** trends  
+- Identify top- and bottom-performing states and cities  
+- Support data-driven strategic decisions  
+
+---
+
+## 📌 Key Metrics
+The dashboard focuses on four primary KPIs:
+
+| Metric     | Description |
+|-----------|-------------|
+| **Sales** | Total revenue generated |
+| **Profit** | Net profit after costs |
+| **Orders** | Total number of transactions |
+| **Customers** | Unique customers served |
+
+Each KPI includes:
+- Current year total
+- Prior year comparison
+- Percentage growth vs. prior year
+- Monthly trend visualization
+
+---
+
+## 📈 KPI Analysis Section
+- Monthly bar charts show performance trends from **January to December**
+- Color indicators highlight:
+  - **Above Previous Year**
+  - **Below Previous Year**
+- Black reference lines represent prior-year benchmarks
+- Enables quick identification of seasonal trends and performance gaps
+
+---
+
+## 🌎 Geographic Analysis
+### Regional Map
+- Interactive map highlights performance by **state**
+- Color intensity reflects relative contribution to regional sales
+
+### City-Level Breakdown
+- Treemap visualization shows contribution by individual cities
+- Allows fast identification of high-impact urban markets
+
+---
+
+## 📋 Detailed State Table
+A sortable table provides state-level granularity, including:
+- Sales
+- Profit
+- Orders
+- Customers
+
+The **Region Total** row aggregates all selected states for quick benchmarking.
+
+---
+
+## 🎛 Interactive Filters
+Users can dynamically control the dashboard using:
+- **Year Selector** (e.g., 2017)
+- **Region Selector** (e.g., West)
+
+All visualizations update instantly based on filter selections.
+
+---
+
+## 🛠 Technical Details
+- Built using **Tableau**
+- Distributed as a **.twbx (Tableau Packaged Workbook)** containing:
+  - Dashboard
+  - Data sources
+  - Calculations
+  - Visual formatting
+
+No external data connections are required.
+
+---
+
+## ▶️ How to Use
+1. Download the `.twbx` file from this repository
+2. Open it using **Tableau Desktop** or **Tableau Reader**
+3. Use the filters to explore different regions and years
+4. Hover over charts and maps for detailed tooltips
+
+---
+
+## 🚀 Use Cases
+- Executive KPI reporting
+- Regional sales and profitability analysis
+- Market expansion assessment
+- Performance benchmarking across geographies
+
+---
+
+## 📌 Notes
+- Designed with clarity and executive readability in mind
+- Optimized for interactive exploration rather than static reporting
+- Easily extensible to additional regions, years, or KPIs
+
+---
+
+## 👤 Author
+**Vaibhav Vesmaker**  
+Data & Financial Analyst | Business Intelligence | Tableau | Power BI  
+
+Feel free to reach out for collaboration or enhancements.
+```
+
+---
+
