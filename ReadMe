@@ -1,13 +1,27 @@
 # Regional KPI Dashboard (Tableau)
-## 🌐 Tableau Public Link
-🔗 View the interactive dashboard on Tableau Public:  
-https://public.tableau.com/shared/Q8NSQMM8K?:display_count=n&:origin=viz_share_link
-## 📊 Overview
-The **Regional KPI Dashboard** is an interactive Tableau dashboard designed to analyze and compare regional business performance across key metrics. It enables users to evaluate **Sales, Profit, Orders, and Customers** over time, benchmark results against the prior year, and drill down geographically from region to state and city levels.
 
-This dashboard is ideal for executive reporting, regional performance reviews, and operational decision-making.
+An interactive **Tableau dashboard** designed to analyze and compare **regional business performance** across key KPIs — enabling year-over-year comparisons and geographic drilldowns from region to state and city level.
+
+🔹 Built for executive reporting and regional performance reviews  
+🔹 Optimized for fast insights and trend analysis  
 
 ---
+
+## 🌐 Live Dashboard (Tableau Public)
+View the fully interactive version of this dashboard on Tableau Public:
+
+👉 https://public.tableau.com/shared/Q8NSQMM8K?:display_count=n&:origin=viz_share_link
+
+> The Tableau Public version is ideal for quick viewing and interaction.  
+> The `.twbx` file in this repository contains the full packaged workbook.
+
+---
+
+## 🧾 Dashboard Preview
+Below is a snapshot of the completed dashboard:
+
+![Regional KPI Dashboard Preview](./dashboard-preview.png)
+
 
 ## 🗂 Repository Contents
 ```
@@ -18,15 +32,6 @@ This dashboard is ideal for executive reporting, regional performance reviews, a
 │── README.md                        # Project documentation
 
 ```
-
----
-
-## 🧾 Dashboard Preview
-Below is a snapshot of the completed dashboard:
-
-![TableauRegionalKPIDashboard](dashboard-preview.png)
-
----
 
 ## 🎯 Key Objectives
 - Track regional business performance at a glance  
